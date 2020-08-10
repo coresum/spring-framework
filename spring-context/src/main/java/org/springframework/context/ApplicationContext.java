@@ -61,6 +61,7 @@ public interface ApplicationContext extends EnvironmentCapable, ListableBeanFact
 	/**
 	 * Return the unique id of this application context.
 	 * @return the unique id of the context, or {@code null} if none
+	 * 哦吼吼
 	 */
 	@Nullable
 	String getId();
